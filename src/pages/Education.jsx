@@ -1,20 +1,4 @@
-/**function Education() {
-  return (
-    <div>
-      <h2>Education</h2>
-      <ul>
-        <li>
-          <strong>ABES Engineering College</strong> – B.Tech CSE (1st Year)
-        </li>
-        <li>
-          <strong>Fatima Convent Sr. Secondary School</strong> – 12th Passed
-        </li>
-      </ul>
-    </div>
-  );
-}
 
-export default Education;**/
 function Education() {
   const containerStyle = {
     maxWidth: "600px",
