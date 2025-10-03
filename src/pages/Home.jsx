@@ -1,14 +1,4 @@
-/**function Home() {
-  return (
-    <div>
-      <h1>Mansi Yadav</h1>
-      <p>Web Developer | 1st Year Student</p>
-      <p>Email: yadavmansi0111207@gmail.com | Phone: 9911702129</p>
-    </div>
-  );
-}
 
-export default Home;**/
 
 function Home() {
   return (
