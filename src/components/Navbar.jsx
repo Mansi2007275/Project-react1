@@ -3,7 +3,7 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <nav className="navbar">
-      <h2 className="logo">My Resume</h2>
+      <h2 className="logo">My portfolio</h2>
       <ul className="nav-links">
         <li>
           <Link to="/">Home</Link>
