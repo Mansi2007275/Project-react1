@@ -30,7 +30,7 @@ body {
   letter-spacing: 1px;
 }
 
-/* Navigation Links */
+
 .nav-links {
   list-style: none;
   display: flex;
@@ -51,7 +51,7 @@ body {
   transform: scale(1.05);
 }
 
-/* Responsive Navbar */
+
 @media (max-width: 768px) {
   .nav-links {
     display: none;
